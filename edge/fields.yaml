@@ -1,0 +1,27 @@
+# File not processed programmatically
+youtube_video_url: https://www.youtube.com/watch?v=9DLsA94N1ZE&feature=youtu.be
+small_promotional_tile:
+  width: 440px
+  height: 280px
+large_promotional_tile:
+  width: 1400px
+  height: 560px
+screenshots:
+  width: 1280px
+  height: 800px
+  max_number: 6
+  images:
+    - url: screenshots/japanese_term.png
+      title: Japanese term lookup
+      caption: Definition lookup
+    - url: screenshots/kanji_term.png
+      title: Kanji term lookup
+      caption: Kanji lookup
+search_terms:
+  - dictionary
+  - language-learning
+  - anki
+  - japanese
+  - chinese
+  - flashcards
+  - english

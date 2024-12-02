@@ -1,0 +1,15 @@
+Powerful and versatile pop-up dictionary for language learning used by 60,000+ language learners.
+
+Yomitan helps you to decipher texts in 20+ languages which would be otherwise too difficult tackle.
+
+Yomitan provides powerful features not available in other browser-based dictionaries:
+💬 Interactive popup window for displaying dictionary definitions.
+🔍 Search page for easily looking up words.
+🌎 Support for more than 20 languages ranging from Japanese to Spanish to Arabic.
+🔊 Play native pronunciation audio from multiple sources with the ability to add your own custom audio sources.
+📝 Automatic flashcard creation for the Anki flashcard program via the AnkiConnect plugin.
+📚 Add multiple dictionaries from recommended and custom sources. Slang, kanji, and pronunciation dictionaries. There are thousands of available dictionaries online
+☁️ Works fully offline. No internet connection needed.
+💲 Completely free! We don't track your data and we're completely open-sourced.
+
+More info: https://yomitan.wiki
